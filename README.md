@@ -1,4 +1,6 @@
 # Merchandise Gift Custom for Sempro
-Oleh: - Marhama Hasana
-      - Arin
-      - Miftha
+Oleh: 
+- `22000` Marhama Hasana
+- `22000` Arin
+- `22000` Miftha
+- `22000`
